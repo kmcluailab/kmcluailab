@@ -1,4 +1,5 @@
-## Khwaja Moinuddin Chishti Language University, Lucknow, Uttar Pradesh. 
+## Khwaja Moinuddin Chishti Language University, Lucknow, Uttar Pradesh. (Government University)
+## Address: Sitapur, Hardoi Bypass Rd, Lucknow, Uttar Pradesh 226013.
 
 <!--
 **kmcluailab/kmcluailab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
